@@ -1,1 +1,5 @@
 # andru
+
+IDE: VISUAL ESTUDIO
+
+NOMBRE; SAPO ANDRU
